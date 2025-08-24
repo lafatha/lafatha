@@ -1,5 +1,4 @@
-Hey, I am La Fatha👋
-- I have a basic of HTML and currently studying python as a beginner 
+Hey, I am Gagah👋
 
 
 
