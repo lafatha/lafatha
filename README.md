@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.gif" alt="ASCII Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="assets/header.svg" alt="Athallah Fatha Header" width="100%" />
 </p>
 
@@ -7,7 +11,7 @@
 Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
 
 - 🔭 **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
-- 💼 **Enterprise Systems:** SAP, Ivalua & Oracle ERP integrations
+- 💼 **Enterprise Systems:** Custom ERP, SAP, Ivalua & Oracle ERP integrations
 - 🌐 **Portfolio:** [lafatha portfolio](https://github.com/lafatha/portfolio)
 - 📫 **Contact:** athallahfatha@gmail.com
 
@@ -29,23 +33,9 @@ Business Analyst & Supply Chain Analyst with a strong engineering background as 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Custom_ERP-00599C?style=for-the-badge&logoColor=white" alt="Custom ERP" />
   <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
   <img src="assets/ivalua-badge.svg" height="28" alt="Ivalua" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lafatha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafatha&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="49%" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <sub>Designed with a minimalist focus • Athallah Fatha (Gagah)</sub>
 </p>
