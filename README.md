@@ -1,3 +1,20 @@
-  <div style="max-width: 100%; overflow: hidden; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR4bG0weHR5bzhueXVleWs1eGdxaG4xaHVkOTBoamY2MnozcjZtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uzOSCSVYB4Vz2oO77M/giphy.gif" alt="ssstwitter GIF" style="width: 100%; height: auto; display: block;" />
-  </div>
+### Hi, I'm Gagah 👋
+
+Business Analyst & Fullstack Developer focused on building clean, data-driven web applications and scalable software solutions.
+
+---
+
+#### 🛠️ Tech & Tools
+
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, FastAPI, PostgreSQL
+- **Tools & Workflow:** Git, Docker, Python (Data Analysis)
+
+---
+
+#### 🔭 What I'm Working On
+
+- Developing web apps & business intelligence tools
+- Supply chain analysis & process optimization
+- ERP AI integrations
