@@ -2,10 +2,6 @@
   <img src="assets/banner.gif" alt="ASCII Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/header.svg" alt="Athallah Fatha Header" width="100%" />
-</p>
-
 ### 📌 About Me
 
 Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
