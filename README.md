@@ -1,20 +1,51 @@
-### Hi, I'm Gagah 👋
+<p align="center">
+  <img src="assets/header.svg" alt="Athallah Fatha Header" width="100%" />
+</p>
 
-Business Analyst & Fullstack Developer focused on building clean, data-driven web applications and scalable software solutions.
+### 📌 About Me
+
+Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
+
+- 🔭 **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
+- 💼 **Enterprise Systems:** SAP, Ivalua & Oracle ERP integrations
+- 🌐 **Portfolio:** [lafatha portfolio](https://github.com/lafatha/portfolio)
+- 📫 **Contact:** athallahfatha@gmail.com
 
 ---
 
-#### 🛠️ Tech & Tools
+### 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, FastAPI, PostgreSQL
-- **Tools & Workflow:** Git, Docker, Python (Data Analysis)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="assets/ivalua-badge.svg" height="28" alt="Ivalua" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-#### 🔭 What I'm Working On
+### 📊 GitHub Stats
 
-- Developing web apps & business intelligence tools
-- Supply chain analysis & process optimization
-- ERP AI integrations
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lafatha&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafatha&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="49%" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed with a minimalist focus • Athallah Fatha (Gagah)</sub>
+</p>
