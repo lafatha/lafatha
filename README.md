@@ -6,10 +6,11 @@
 
 Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
 
-- 🔭 **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
+- 🎯 **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
 - 💼 **Enterprise Systems:** Custom ERP, SAP, Ivalua & Oracle ERP integrations
-- 🌐 **Portfolio:** [lafatha portfolio](https://github.com/lafatha/portfolio)
-- 📫 **Contact:** athallahfatha@gmail.com
+- 🌐 **Portfolio:** [Personal Website](https://gagah.tech)
+- 🔗 **LinkedIn:** [Gagah Athallah Fatha](https://www.linkedin.com/in/gagahathallahfatha/)
+- ✉️ **Contact:** [athallahfatha@gmail.com](mailto:athallahfatha@gmail.com)
 
 ---
 
