@@ -2,19 +2,19 @@
   <img src="assets/banner.gif" alt="ASCII Banner" width="100%" />
 </p>
 
-### 📌 About Me
+### <img src="assets/icons/user.svg" width="20" height="20" align="center" /> About Me
 
 Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
 
-- 🎯 **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
-- 💼 **Enterprise Systems:** Custom ERP, SAP, Ivalua & Oracle ERP integrations
-- 🌐 **Portfolio:** [Personal Website](https://gagah.tech)
-- 🔗 **LinkedIn:** [Gagah Athallah Fatha](https://www.linkedin.com/in/gagahathallahfatha/)
-- ✉️ **Contact:** [athallahfatha@gmail.com](mailto:athallahfatha@gmail.com)
+- <img src="assets/icons/target.svg" width="16" height="16" align="center" /> **Focus:** Supply Chain Analytics, Business Intelligence & Fullstack Web Development
+- <img src="assets/icons/briefcase.svg" width="16" height="16" align="center" /> **Enterprise Systems:** Custom ERP, SAP, Ivalua & Oracle ERP integrations
+- <img src="assets/icons/globe.svg" width="16" height="16" align="center" /> **Portfolio:** [Personal Website](https://gagah.tech)
+- <img src="assets/icons/linkedin.svg" width="16" height="16" align="center" /> **LinkedIn:** [Gagah Athallah Fatha](https://www.linkedin.com/in/gagahathallahfatha/)
+- <img src="assets/icons/mail.svg" width="16" height="16" align="center" /> **Contact:** [athallahfatha@gmail.com](mailto:athallahfatha@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="assets/icons/code.svg" width="20" height="20" align="center" /> Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
