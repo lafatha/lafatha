@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/AHpC7mG5fOaA3cgYw1/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/AHpC7mG5fOaA3cgYw1/giphy.gif" alt="Banner" width="100%" height="200" style="object-fit: cover; max-height: 200px; border-radius: 8px;" />
 </p>
 
 ### <img src="assets/icons/user.svg" width="22" height="22" valign="middle" /> About Me
