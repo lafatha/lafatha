@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 600 75" fill="none">
+  <style>
+    .lang-text { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .lang-name { font: 600 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+    .lang-pct { font: 400 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+  </style>
+  
+  <!-- Progress Bar Container -->
+  <mask id="bar-mask">
+    <rect x="0" y="0" width="600" height="10" rx="5" fill="#ffffff" />
+  </mask>
+
+  <!-- Progress Bar Segments -->
+  <g mask="url(#bar-mask)">
+    <rect x="0" y="0" width="457.8" height="10" fill="#DA5B0B" />
+    <rect x="457.8" y="0" width="103.2" height="10" fill="#F7DF1E" />
+    <rect x="561.0" y="0" width="24.0" height="10" fill="#3178C6" />
+    <rect x="585.0" y="0" width="13.2" height="10" fill="#E34F26" />
+    <rect x="598.2" y="0" width="1.8" height="10" fill="#4F5D95" />
+    <rect x="600.0" y="0" width="1.2" height="10" fill="#3776AB" />
+  </g>
+
+  <!-- Legend Row 1 -->
+  <g transform="translate(0, 36)">
+    <!-- Jupyter Notebook -->
+    <circle cx="5" cy="-4" r="4" fill="#DA5B0B" />
+    <text x="16" y="0" class="lang-name">Jupyter Notebook</text>
+    <text x="135" y="0" class="lang-pct">76.3%</text>
+
+    <!-- JavaScript -->
+    <circle cx="215" cy="-4" r="4" fill="#F7DF1E" />
+    <text x="226" y="0" class="lang-name">JavaScript</text>
+    <text x="315" y="0" class="lang-pct">17.2%</text>
+
+    <!-- TypeScript -->
+    <circle cx="415" cy="-4" r="4" fill="#3178C6" />
+    <text x="426" y="0" class="lang-name">TypeScript</text>
+    <text x="505" y="0" class="lang-pct">4.0%</text>
+  </g>
+
+  <!-- Legend Row 2 -->
+  <g transform="translate(0, 58)">
+    <!-- HTML -->
+    <circle cx="5" cy="-4" r="4" fill="#E34F26" />
+    <text x="16" y="0" class="lang-name">HTML</text>
+    <text x="135" y="0" class="lang-pct">2.2%</text>
+
+    <!-- PHP -->
+    <circle cx="215" cy="-4" r="4" fill="#4F5D95" />
+    <text x="226" y="0" class="lang-name">PHP</text>
+    <text x="315" y="0" class="lang-pct">0.3%</text>
+
+    <!-- Python -->
+    <circle cx="415" cy="-4" r="4" fill="#3776AB" />
+    <text x="426" y="0" class="lang-name">Python</text>
+    <text x="505" y="0" class="lang-pct">0.2%</text>
+  </g>
+</svg>

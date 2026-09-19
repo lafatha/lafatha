@@ -46,7 +46,12 @@ Business Analyst & Supply Chain Analyst with a strong engineering background as 
 ### <img src="assets/icons/code.svg" width="22" height="22" valign="middle" /> Top Languages
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lafatha&theme=github_dark" alt="Top Languages" />
+  <img src="https://dynamic-six-mu.vercel.app/api/top-langs/?username=lafatha&layout=compact&hide_title=true&hide_border=true&theme=dark&count_private=true" alt="Top Languages" />
 </p>
+
+
+
+
+
 
 
