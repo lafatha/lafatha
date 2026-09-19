@@ -2,23 +2,23 @@
   <img src="https://media.giphy.com/media/AHpC7mG5fOaA3cgYw1/giphy.gif" alt="Banner" width="100%" height="200" style="object-fit: cover; max-height: 200px; border-radius: 8px;" />
 </p>
 
-### <img src="assets/icons/user.svg" width="22" height="22" valign="middle" /> About Me
+### About Me
 
 Business Analyst & Supply Chain Analyst with a strong engineering background as a Fullstack Developer. Focused on building clean, data-driven web applications, optimizing business workflows, and integrating enterprise ERP systems.
 
 <br />
 
 <p>
-  <img src="assets/icons/target.svg" width="16" height="16" valign="middle" /> &nbsp;<b>Focus:</b> Supply Chain Analytics, Business Intelligence &amp; Fullstack Web Development<br />
-  <img src="assets/icons/briefcase.svg" width="16" height="16" valign="middle" /> &nbsp;<b>Enterprise Systems:</b> Custom ERP, SAP, Ivalua &amp; Oracle ERP integrations<br />
-  <img src="assets/icons/globe.svg" width="16" height="16" valign="middle" /> &nbsp;<b>Portfolio:</b> <a href="https://gagah.tech">Personal Website</a><br />
-  <img src="assets/icons/linkedin.svg" width="16" height="16" valign="middle" /> &nbsp;<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/gagahathallahfatha/">Gagah Athallah Fatha</a><br />
-  <img src="assets/icons/mail.svg" width="16" height="16" valign="middle" /> &nbsp;<b>Contact:</b> <a href="mailto:athallahfatha@gmail.com">athallahfatha@gmail.com</a>
+  <img src="assets/icons/target.svg" width="16" height="16" valign="middle" />  <b>Focus:</b> Supply Chain Analytics, Business Intelligence & Fullstack Web Development<br />
+  <img src="assets/icons/briefcase.svg" width="16" height="16" valign="middle" />  <b>Enterprise Systems:</b> Custom ERP, SAP, Ivalua & Oracle ERP integrations<br />
+  <img src="assets/icons/globe.svg" width="16" height="16" valign="middle" />  <b>Portfolio:</b> <a href="https://gagah.tech">Personal Website</a><br />
+  <img src="assets/icons/linkedin.svg" width="16" height="16" valign="middle" />  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/gagahathallahfatha/">Gagah Athallah Fatha</a><br />
+  <img src="assets/icons/mail.svg" width="16" height="16" valign="middle" />  <b>Contact:</b> <a href="mailto:athallahfatha@gmail.com">athallahfatha@gmail.com</a>
 </p>
 
 ---
 
-### <img src="assets/icons/code.svg" width="22" height="22" valign="middle" /> Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -43,17 +43,8 @@ Business Analyst & Supply Chain Analyst with a strong engineering background as 
 
 ---
 
-### <img src="assets/icons/code.svg" width="22" height="22" valign="middle" /> Top Languages
+### Top Languages
 
 <p align="left">
   <img src="https://dynamic-six-mu.vercel.app/api/top-langs/?username=lafatha&layout=compact&hide_title=true&hide_border=true&theme=dark&count_private=true&v=3" alt="Top Languages" />
 </p>
-
-
-
-
-
-
-
-
-
