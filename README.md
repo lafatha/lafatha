@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="ASCII Banner" width="100%" />
+  <img src="https://media.giphy.com/media/AHpC7mG5fOaA3cgYw1/giphy.gif" alt="Banner" width="100%" />
 </p>
 
 ### <img src="assets/icons/user.svg" width="22" height="22" valign="middle" /> About Me
