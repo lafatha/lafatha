@@ -40,3 +40,14 @@ Business Analyst & Supply Chain Analyst with a strong engineering background as 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+---
+
+### <img src="assets/icons/code.svg" width="22" height="22" valign="middle" /> Top Languages
+
+<p align="left">
+  <a href="https://github.com/lafatha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafatha&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+  </a>
+</p>
+
